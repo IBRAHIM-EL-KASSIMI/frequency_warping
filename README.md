@@ -1,4 +1,4 @@
-Frequency warping for a transfert funcion using the bilinear transform(tustin method)
+Using the bilinear transform(Tustin's method) *Without* adapting to the filter
 ![Alt text](images/bilinear.png)
-Tustin's method adapted to the cutt_off frequency of a filter.
+Adapting Tustin's method to the cut_off frequency of the filter
 ![Alt text](images/bilinear_adapted.png)
